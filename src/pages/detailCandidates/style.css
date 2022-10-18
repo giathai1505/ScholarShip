@@ -1,0 +1,9 @@
+.personelInfo {
+  width: 800px;
+  margin: auto;
+}
+
+.wrapper {
+  background: url("../../assets/images/bgg.jpeg") no-repeat;
+  background-size: cover;
+}
